@@ -130,3 +130,17 @@ h6 {
 /* footer end */
 
 /* body end */
+
+/* portfolio page start */
+
+#portfolioHeader {
+   background-color: #607d8b;
+   color: #ffffff;
+}
+#portfolioImage{
+    width: 300px;
+}
+
+
+
+/* portfolio page end */
