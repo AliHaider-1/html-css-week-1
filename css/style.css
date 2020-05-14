@@ -84,10 +84,15 @@ main {
       
   }
 
- main > article:first-child {
+    article:first-child {
     background-color: rgba(246, 248, 144, 0.74);
-    color: #304FFE ;
+    
 }
+    article:first-child > h4{
+        color: red;
+        background-color: yellow;
+        border-radius: 10px;
+    }
 article {
     padding: 1% 10% 1% 10%;
     margin :1%;
